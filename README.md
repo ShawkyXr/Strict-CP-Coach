@@ -17,7 +17,8 @@ This prompt enforces a strict set of rules on the AI:
 1. Copy the instructions provided in the section below.
 2. If using Claude: Create a new Project, go to the settings, and paste the text into the "Custom Instructions" field.
 3. If using ChatGPT: Create a Custom GPT and paste the text into the "Instructions" field, or paste it as the first message in a new chat.
-4. Start a new chat, share your problem statement or failing code, and interact with the coach.
+4. If using Gemini: Create a new notebook, go to the settings, and paste the text into the System Instructions field.
+5. Start a new chat, share your problem statement or failing code, and interact with the coach.
 
 ---
 
